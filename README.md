@@ -6,7 +6,7 @@ The objective is to build a binary classification model to help improve ad targe
 
 ## 2. Dataset
 The dataset contains 10,000 entries with the following columns:
-
+  
 - **id, full_name** – user identifiers (dropped for modeling)  
 - **age** – numeric, user age  
 - **gender** – categorical, Male / Female / Non-Binary  
